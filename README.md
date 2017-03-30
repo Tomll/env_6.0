@@ -1,1 +1,1 @@
-# env_6.0
+# Compiler environment for Android 6.0
