@@ -1,0 +1,1 @@
+java -jar ./reinforce/release/reinforce.jar $1

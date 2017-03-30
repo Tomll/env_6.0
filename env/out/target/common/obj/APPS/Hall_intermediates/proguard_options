@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:17
+-keep class com.transage.hall.HallApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class com.transage.hall.activity.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class com.transage.hall.service.HallService { <init>(...); }
+
